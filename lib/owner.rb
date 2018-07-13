@@ -16,4 +16,6 @@ end
   puts dog_one.name
   puts dog_one.mood
   
-  fish_one = Fish.new("")
+  fish_one = Fish.new("Dory", "bubbly")
+  puts fish_one.name
+  puts fish_one.mood
