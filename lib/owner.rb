@@ -8,7 +8,7 @@ class Owner
   end
 end
     
-  cat_one = Cat.new("kiwi", "sassy")
+  cat_one = Cat.new("Kiwi", "sassy")
   puts cat_one.name 
   puts cat_one.mood
 
